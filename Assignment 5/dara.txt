@@ -1,0 +1,1 @@
+{'applicaionName': 'amazon', 'password': '|nQq`|s8u&'}
