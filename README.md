@@ -22,3 +22,4 @@ To receive the data (dice number) after the dice has been rolled:
 In the Application 1 script, call the function readDiceNumberFromFile() to read the dice number from the dice.txt file. This function will keep checking the file until it receives a valid dice number (not "roll").
 
 ### C. UML sequence diagram:
+![2023-07-31 13 58 22](https://github.com/Dararith25/CS361/assets/114700697/8035b84a-58cd-40f6-9bfb-be460149be13)
